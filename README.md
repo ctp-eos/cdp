@@ -7,7 +7,7 @@
 
 CTP‑CDP is the spearhead initiative of the larger **CTP‑EOS ecosystem**. Its core premise is that humanity’s next technological leap—mastery of **C‑domain (Consciousness‑domain) science**—will come only when individual minds and collective “group‑ego” are deliberately cultivated, shared, and iterated in the open, much like open‑source code. 
 
-By distributing practical tools for inner development and intersubjective research, the project aims to accelerate our transition along the **CTP Civilization Scale** ([see CTP‑Sci vs. Kardashev analysis](https://github.com/ctp-eos/ctp-eos/blob/main/CTPSci%20vs.%20Kardashev%3A%20Did%20Not%20Account%20for%20CTP%20Energy.md)) from a late‑Stage 1 planetary society toward an early multiplanetary Stage 2+ civilization—without relying on the historicall inaccurate Kardashev framework.
+By distributing practical tools for inner development and intersubjective research, the project aims to accelerate our transition along the **CTP Civilization Scale** ([see CTP‑Sci vs. Kardashev analysis](https://github.com/ctp-eos/ctp-eos/blob/main/CTPSci%20vs.%20Kardashev%3A%20Did%20Not%20Account%20for%20CTP%20Energy.md)) from a late‑Stage 1 planetary society toward an early multiplanetary Stage 2+ civilization—without relying on the historically/last century inaccurate Kardashev framework.
 
 ---
 
