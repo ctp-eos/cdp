@@ -64,3 +64,6 @@ Contribute protocols, run local group‑ego cohorts, or integrate C‑domain API
 CTP-EOS Conscious Development Project
 
 ---
+
+**MORE INFORMATION**  
+Contact: info@ctp-energy.com
