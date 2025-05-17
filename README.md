@@ -15,9 +15,9 @@ By distributing practical tools for inner development and intersubjective resear
 
 | Horizon              | Objective                                                                                      | Key Deliverables |
 |----------------------|------------------------------------------------------------------------------------------------|------------------|
-| **Near‑term (0‑2 yrs)** | Build the *Open Source Consciousness* platform: a Git‑style repository of protocols, bio‑neuro telemetry datasets, and “consciousness mods.” | - Federated data ledger (privacy‑preserving)  <br>- Standardized C‑domain API for wearables & EEG/MEG devices  <br>- Creative‑commons training curricula (mindfulness, lucid dreaming, no‑tech psi) |
-| **Mid‑term (2‑5 yrs)**  | Establish *Group‑Ego Labs*—networked research nodes where hybrid AI + human collectives co‑model shared phenomenology. | - VR/AR holodecks for synchronized states  <br>- Real‑time collective coherence metrics  <br>- Peer‑reviewed publication pipeline |
-| **Long‑term (5‑15 yrs)** | Translate C‑domain breakthroughs into civilization‑scale infrastructure: remote sensing, healing tech, and C-domain Communication Systems. | - Consciousness‑modulated post-quantum C-domain comm relays  <br>- Non‑pharma psycho‑semantic medicine  <br>- Governance frameworks for post‑planetary culture |
+| **Near‑term (0‑2 yrs)** | Build the *Open Source Consciousness* platform: a Git‑style repository of protocols, bio‑neuro telemetry datasets, and “consciousness mods.” | - Federated data ledger (privacy‑preserving)  <br>- Standardized C‑domain API for wearables & EEG/MEG devices  <br>- Creative‑commons training curricula *(CTP-OSC development, CTP technologies augmentation)* |
+| **Mid‑term (2‑5 yrs)**  | Establish *Group‑Ego Labs*—networked research nodes where hybrid AI + human collectives co‑model shared phenomenology. | - C-domain Access Technologies via future CTP Energy Systems for synchronized states  <br>- Real‑time collective coherence metrics  <br>- Peer‑reviewed publication pipeline |
+| **Long‑term (5‑15 yrs)** | Translate C‑domain breakthroughs into civilization‑scale infrastructure: remote sensing, healing tech, and C-domain Communication Systems. | - Consciousness or C-modulated post-quantum C-domain comm relays  <br>- Non‑pharma psycho‑semantic medicine  <br>- Governance frameworks for post‑planetary culture |
 
 ---
 
