@@ -17,7 +17,7 @@ By distributing practical tools for inner development and intersubjective resear
 |----------------------|------------------------------------------------------------------------------------------------|------------------|
 | **Near‑term (0‑2 yrs)** | Build the *Open Source Consciousness* platform: a Git‑style repository of protocols, bio‑neuro telemetry datasets, and “consciousness mods.” | - Federated data ledger (privacy‑preserving)  <br>- Standardized C‑domain API for wearables & EEG/MEG devices  <br>- Creative‑commons training curricula *(CTP-OSC development, CTP technologies augmentation)* |
 | **Mid‑term (2‑5 yrs)**  | Establish *Group‑Ego Labs*—networked research nodes where hybrid AI + human collectives co‑model shared phenomenology. | - C-domain Access Technologies via future CTP Energy Systems for synchronized states  <br>- Real‑time collective coherence metrics  <br>- Peer‑reviewed publication pipeline |
-| **Long‑term (5‑15 yrs)** | Translate C‑domain breakthroughs into civilization‑scale infrastructure: remote sensing, healing tech, and C-domain Communication Systems. | - Consciousness or C-modulated post-quantum C-domain comm relays  <br>- Non‑pharma psycho‑semantic medicine  <br>- Governance frameworks for post‑planetary culture |
+| **Long‑term (5‑15 yrs)** | Translate C‑domain breakthroughs into civilization‑scale infrastructure: remote sensing, healing tech, and C-domain Communication Systems. | - Consciousness or C-modulated post-quantum C-domain communication relays installations *(via CTP Communications Towers)* & CTP  <br>- Non‑pharma psycho‑semantic medicine  <br>- Governance frameworks for post‑planetary culture |
 
 ---
 
@@ -25,7 +25,7 @@ By distributing practical tools for inner development and intersubjective resear
 
 1. **The Bottleneck.** Material technology is advancing exponentially, yet social, ethical, and cognitive capacities lag—risking existential instability.  
 2. **The Hypothesis.** Consciousness is an energy‑informational substrate (CTP Energy Science) that can be measured, engineered, and shared. Elevating it systemically boosts creativity, empathy, and long‑range coordination.  
-3. **The Open‑Source Gambit.** Like Linux for operating systems, an openly licensed “consciousness stack” seeds rapid, decentralized innovation while preventing proprietary gate‑locking.  
+3. **The Open‑Source Gambit.** Like Linux for operating systems, an openly licensed *“consciousness stack”* seeds rapid, decentralized innovation while preventing proprietary gate‑locking.  
 4. **The Group‑Ego Leap.** When individuals synchronize intentionality, a higher‑order cognitive entity—*the group‑ego*—emerges, capable of solving civilization‑scale problems in real time.  
 5. **The Cosmic Trajectory.** Cultivating millions of interconnected group‑egos forms a planetary “noösphere”; extending it through cislunar, Martian, and deep‑space nodes yields a C‑domain communications lattice—our true ticket to becoming an interstellar species.
 
