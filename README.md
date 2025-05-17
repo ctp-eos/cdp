@@ -7,7 +7,7 @@
 
 CTP‑CDP is the spearhead initiative of the larger **CTP‑EOS ecosystem**. Its core premise is that humanity’s next technological leap—mastery of **C‑domain (Consciousness‑domain) science**—will come only when individual minds and collective “group‑ego” are deliberately cultivated, shared, and iterated in the open, much like open‑source code. 
 
-By distributing practical tools for inner development and intersubjective research, the project aims to accelerate our transition along the **CTP Civilization Scale** ([see CTP‑Sci vs. Kardashev analysis](https://github.com/ctp-eos/ctp-eos/blob/main/CTPSci%20vs.%20Kardashev%3A%20Did%20Not%20Account%20for%20CTP%20Energy.md)) from a late‑Stage 1 planetary society toward an early multiplanetary Stage 2+ civilization—without relying on the historic Kardashev framework.
+By distributing practical tools for inner development and intersubjective research, the project aims to accelerate our transition along the **CTP Civilization Scale** ([see CTP‑Sci vs. Kardashev analysis](https://github.com/ctp-eos/ctp-eos/blob/main/CTPSci%20vs.%20Kardashev%3A%20Did%20Not%20Account%20for%20CTP%20Energy.md)) from a late‑Stage 1 planetary society toward an early multiplanetary Stage 2+ civilization—without relying on the historicall inaccurate Kardashev framework.
 
 ---
 
@@ -17,7 +17,7 @@ By distributing practical tools for inner development and intersubjective resear
 |----------------------|------------------------------------------------------------------------------------------------|------------------|
 | **Near‑term (0‑2 yrs)** | Build the *Open Source Consciousness* platform: a Git‑style repository of protocols, bio‑neuro telemetry datasets, and “consciousness mods.” | - Federated data ledger (privacy‑preserving)  <br>- Standardized C‑domain API for wearables & EEG/MEG devices  <br>- Creative‑commons training curricula (mindfulness, lucid dreaming, no‑tech psi) |
 | **Mid‑term (2‑5 yrs)**  | Establish *Group‑Ego Labs*—networked research nodes where hybrid AI + human collectives co‑model shared phenomenology. | - VR/AR holodecks for synchronized states  <br>- Real‑time collective coherence metrics  <br>- Peer‑reviewed publication pipeline |
-| **Long‑term (5‑15 yrs)** | Translate C‑domain breakthroughs into civilization‑scale infrastructure: remote sensing, healing tech, and trans‑orbital communication systems. | - Consciousness‑modulated quantum comm relays  <br>- Non‑pharma psycho‑semantic medicine  <br>- Governance frameworks for post‑planetary culture |
+| **Long‑term (5‑15 yrs)** | Translate C‑domain breakthroughs into civilization‑scale infrastructure: remote sensing, healing tech, and C-domain Communication Systems. | - Consciousness‑modulated post-quantum C-domain comm relays  <br>- Non‑pharma psycho‑semantic medicine  <br>- Governance frameworks for post‑planetary culture |
 
 ---
 
