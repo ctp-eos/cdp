@@ -66,4 +66,4 @@ CTP-EOS Conscious Development Project
 ---
 
 **MORE INFORMATION**  
-Contact: info@ctp-energy.com
+Contact: cdp@ctp-energy.com
