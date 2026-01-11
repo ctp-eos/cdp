@@ -1,4 +1,5 @@
-# CTP‑EOS Conscious Development Project (CTP-EOS‑CDP)  
+# CTP‑EOS Conscious Development Project 
+## (CTP-EOS‑CDP)  
 *“Open‑sourcing consciousness to spark a planetary— and ultimately interstellar—civilization.”*
 
 ---
